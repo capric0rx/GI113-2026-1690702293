@@ -1,7 +1,7 @@
 /*
- * Student ID :
- * Name       :
- * Section    :
- * No.        :
+ * Student ID : 1690702293
+ * Name       : พรหมพิริยะ เล็กสุวรรณ
+ * Section    : 129C
+ * No.        : N/A
  * Course     : GI113 Computer Programming (GI)
  */
