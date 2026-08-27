@@ -9,7 +9,7 @@
 
 using System;
 
-namespace lab02
+namespace Lab02
 {
     internal class Program
     {
