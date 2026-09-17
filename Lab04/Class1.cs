@@ -42,7 +42,6 @@ namespace Lab04
             bool volumeOk = double.TryParse(Console.ReadLine(), out double volume);
             Console.WriteLine($"Valid input: {volumeOk}");
             Console.WriteLine($"Volume: {volume}");
-
             Console.WriteLine("+------------------------------+");
             Console.WriteLine("|         NEW SAVE FILE         |");
             Console.WriteLine("+------------------------------+");
